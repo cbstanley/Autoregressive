@@ -1,0 +1,2 @@
+# Autoregressive
+Vector autoregressive model
